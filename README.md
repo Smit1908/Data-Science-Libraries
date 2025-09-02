@@ -42,5 +42,5 @@ This repo contains my practice notebooks and tutorials for the most important Py
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Data-Science-Libraries.git
+   git clone https://github.com/Smit1908/Data-Science-Libraries.git
    cd Data-Science-Libraries
